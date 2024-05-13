@@ -1,14 +1,14 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
-### To prototype the given part model design in 3D Printer.
+ To prototype the given part model design in 3D Printer.
 
 ## REQUIREMENTS:
-### ●	3D Printer machine.
-### ●	CURA 4.0 Software.
-### ●	Autodesk Fusion 360 Software.
-### ●	System - Windows 7 or higher, 1 GB RAM.
+ ●	3D Printer machine.
+ ●	CURA 4.0 Software.
+ ●	Autodesk Fusion 360 Software.
+ ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
 
@@ -37,18 +37,19 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
-###   1.	Switch on the 3d printer.
-###   2.	Place your Pen drive in USB.
-###   3.	Clean the surface bed plate.
-###   4.	Load filament into the required extruder as per the requirement.
-###   5.	Wait until the nozzle & bed plate comes into the required temperature.
-###   6.	Close the doors of the 3d printer.
-###   7.	Open the file from the USB storage and select the Print option.
+   1.	Switch on the 3d printer.
+   2.	Place your Pen drive in USB.
+   3.	Clean the surface bed plate.
+   4.	Load filament into the required extruder as per the requirement.
+   5.	Wait until the nozzle & bed plate comes into the required temperature.
+   6.	Close the doors of the 3d printer.
+   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Surendhar6/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118352907/c062a84d-b271-4f56-8407-0644adeecf12)
 
-### Name:
-### Register Number:
+### Name: Surendhar A
+### Register Number: 212222110049
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
